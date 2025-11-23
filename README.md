@@ -1,7 +1,5 @@
 -----
-<img
-  src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile"
-  alt="Booting line" />
+![img](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/Group19-1.png)
 
 ----
 
