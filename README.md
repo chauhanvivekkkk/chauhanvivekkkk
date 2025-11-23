@@ -10,7 +10,7 @@
 ------
 ## 💫 About Me
 👋 Hi, I'm **Vivek Chauhan**  
-🎓 1st year CSE student at **UPES**  
+🎓 **CS Freshman** - Developer in progress...
 💻 Currently learning **C programming** & core CS fundamentals  
 🚀 Passionate about **learning new technologies**  
 📚 Building a strong foundation — one step at a time  
