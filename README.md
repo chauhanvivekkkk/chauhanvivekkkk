@@ -1,13 +1,10 @@
 ----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work" alt="Booting line" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work" alt="Booting line" />
+
 
 
 
 --- 
-
-
 
 <p align="center">
   <img src="https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/assets/coding1).gif" width="80%" />
