@@ -1,23 +1,32 @@
------
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile" alt="Booting line" />
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
-----
+<div style="
+  display:inline-block;
+  background:#d7b2ff;
+  padding:8px 18px;
+  border-radius:14px;
+  box-shadow:0 0 12px rgba(184,125,255,0.45);
+">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile"
+       alt="Booting line"
+       style="display:block;" />
+</div>
+
+
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
 <p align="center">
   <img src="https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/coding1).gif" width="80%" />
 </p>
 
-------
-
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 ## 👨‍💻 About Me
 🎓 **CS Freshman** - Developer in progress...<br>
 💻 Currently learning **C programming** & core CS fundamentals  
 🚀 Passionate about **learning new technologies**  
 📚 Building a strong foundation — one step at a time  
 📧 Reach me: **chauhanvivek12203@gmail.com**
-
-------------
-
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 ## 🌐 Socials
 
 <p align="left">
@@ -34,21 +43,19 @@
   </a>
 </p>
 
----
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
+<h2>💻 Tech Stack </h2>
 
-## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
-
----
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=chauhanvivekkkk&theme=radical&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=chauhanvivekkkk&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanvivekkkk&theme=radical&layout=compact)
-
----
+![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
