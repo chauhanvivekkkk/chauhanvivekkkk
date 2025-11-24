@@ -12,11 +12,11 @@
 
 ----
 ## 👨‍💻 About Me
-🎓 **CS Freshman** - Developer in progress...<br>
-💻 Currently learning **C programming** & core CS fundamentals  
-🚀 Passionate about **learning new technologies**  
-📚 Building a strong foundation — one step at a time  
-📧 Reach me: **chauhanvivek12203@gmail.com**
+- 🎓 **CS Freshman** - Developer in progress...<br>
+- 💻 Currently learning **C programming** & core CS fundamentals  
+- 🚀 Passionate about **learning new technologies**  
+- 📚 Building a strong foundation — one step at a time  
+- 📧 Reach me: **chauhanvivek12203@gmail.com**
 
 ----
 ## 🌐 Socials
