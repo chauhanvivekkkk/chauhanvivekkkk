@@ -1,9 +1,6 @@
 ----
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work" alt="Booting line" />
 
-
-
-
 --- 
 
 <p align="center">
@@ -11,15 +8,15 @@
 </p>
 
 ----
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 - 🎓 **CS Freshman** - Developer in progress...<br>
-- 💻 Currently learning **C programming** & core CS fundamentals  
+- 💻 Currently learning `C programming` & core `CS fundamentals` 
 - 🚀 Passionate about **learning new technologies**  
 - 📚 Building a strong foundation — one step at a time  
 - 📧 Reach me: **chauhanvivek12203@gmail.com**
 
 ----
-## 🌐 Socials
+## 🌐 SOCIALS
 
 <p align="left">
   <a href="https://instagram.com/_.vivekchauhan" target="_blank">
@@ -36,7 +33,7 @@
 </p>
 
 ---
-<h2>💻 Tech Stack </h2>
+## 💻 TECH STACK 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ----
-## 📊 GitHub Stats
+## 📊 STATS
 ![](https://github-readme-stats.vercel.app/api?username=chauhanvivekkkk&theme=radical&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=chauhanvivekkkk&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanvivekkkk&theme=radical&layout=compact)
