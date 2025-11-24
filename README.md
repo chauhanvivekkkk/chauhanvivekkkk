@@ -1,17 +1,6 @@
 ![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
-<div style="
-  display:inline-block;
-  background:#d7b2ff;
-  padding:8px 18px;
-  border-radius:14px;
-  box-shadow:0 0 12px rgba(184,125,255,0.45);
-">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile"
-       alt="Booting line"
-       style="display:block;" />
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=2000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile" alt="Booting line" />
 
 ![border](https://github.com/chauhanvivekkkk/chauhanvivekkkk/blob/main/bdr.gif)
 
