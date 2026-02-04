@@ -50,9 +50,9 @@
 
 ----
 ## 📊 STATS
-![](https://github-readme-stats.vercel.app/api?username=chauhanvivekkkk&theme=radical&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=chauhanvivekkkk&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanvivekkkk&theme=radical&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chauhanvivekkkk&theme=radical&show_icons=true&cache_seconds=1800)
+![](https://nirzak-streak-stats.vercel.app/?user=chauhanvivekkkk&theme=radical&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanvivekkkk&theme=radical&layout=compact&cache_seconds=1800)
 
 ----
 
