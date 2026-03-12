@@ -17,7 +17,7 @@
 ----
 ## 👨‍💻 ABOUT ME
 - 🎓 **CS Freshman** - Developer in progress...<br>
-- 💻 Currently learning `C programming` & core `CS fundamentals` 
+- 💻 Currently focused on `DSA` & building `problem solving skills` 
 - 🚀 Passionate about **learning new technologies**  
 - 📚 Building a strong foundation — one step at a time  
 - 📧 Reach me: **chauhanvivek12203@gmail.com**
