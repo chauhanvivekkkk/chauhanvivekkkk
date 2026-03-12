@@ -1,5 +1,15 @@
 ----
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work" alt="Booting line" />
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+  srcset="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work">
+
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+  srcset="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=1600&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Chauhan;Welcome+to+my+Github+profile;Enjoy+exploring+my+work" alt="Typing SVG">
+</picture>
 
 --- 
 
@@ -17,7 +27,7 @@
 ----
 ## 👨‍💻 ABOUT ME
 - 🎓 **CS Freshman** - Developer in progress...<br>
-- 💻 Currently focused on `DSA` & building `problem solving skills` 
+- 💻 Currently focused on `DSA` &  building `problem solving skills` 
 - 🚀 Passionate about **learning new technologies**  
 - 📚 Building a strong foundation — one step at a time  
 - 📧 Reach me: **chauhanvivek12203@gmail.com**
