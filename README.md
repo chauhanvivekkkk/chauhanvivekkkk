@@ -63,12 +63,11 @@
 ## 📊 STATS
 
 
-<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chauhanvivekkkk&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://streak-stats.demolab.com?user=chauhanvivekkkk&theme=tokyonight&hide_border=true" height="170"/>
+<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chauhanvivekkkk&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4500&icon_color=ff6a00&text_color=ffffff" height="170"/> <img src="https://streak-stats.demolab.com?user=chauhanvivekkkk&theme=tokyonight&hide_border=true&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chauhanvivekkkk&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chauhanvivekkkk&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4500&text_color=ffffff"/> </div>
   <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=00f7ff&style=flat" />
 </p>
 
