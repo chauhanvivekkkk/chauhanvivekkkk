@@ -61,9 +61,15 @@
 
 ----
 ## 📊 STATS
-![](https://github-readme-stats.vercel.app/api?username=chauhanvivekkkk&theme=radical&show_icons=true&cache_seconds=1800)
-![](https://nirzak-streak-stats.vercel.app/?user=chauhanvivekkkk&theme=radical&cache_seconds=1800)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanvivekkkk&theme=radical&layout=compact&cache_seconds=1800)
+Replace everything with this 👇
 
+<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chauhanvivekkkk&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://streak-stats.demolab.com?user=chauhanvivekkkk&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chauhanvivekkkk&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=00f7ff&style=flat" />
+</p>
 ----
 
