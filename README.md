@@ -70,6 +70,5 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chauhanvivekkkk&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4500&text_color=ffffff"/> </div>
   <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=00f7ff&style=flat" />
 </p>
-
 ---
 
