@@ -36,15 +36,15 @@
 ## 🌐 SOCIALS
 <p align="left">
   <a href="https://instagram.com/_.vivekchauhan" target="_blank">
-    <img src="./assets/insta.gif" width="52px" alt="Instagram"/>
+    <img src="./assets/insta.gif" width="63px" alt="Instagram"/>
   </a>
 
   <a href="https://www.linkedin.com/in/vivek-chauhan-8725b6240/" target="_blank">
-    <img src="./assets/link.gif" width="52px" alt="LinkedIn"/>
+    <img src="./assets/link.gif" width="63px" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:chauhanvivek12203@gmail.com" target="_blank">
-    <img src="./assets/mail.gif" width="52px" alt="Email"/>
+    <img src="./assets/mail.gif" width="63px" alt="Email"/>
   </a>
 </p>
 
