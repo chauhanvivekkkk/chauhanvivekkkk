@@ -34,18 +34,17 @@
 
 ----
 ## 🌐 SOCIALS
-
 <p align="left">
   <a href="https://instagram.com/_.vivekchauhan" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=E4405F" width="45px" alt="Instagram"/>
+    <img src="./assets/insta.gif" width="52px" alt="Instagram"/>
   </a>
 
   <a href="https://www.linkedin.com/in/vivek-chauhan-8725b6240/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0A66C2" width="45px" alt="LinkedIn"/>
+    <img src="./assets/link.gif" width="52px" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:chauhanvivek12203@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=86885&format=png&color=D14836" width="45px" alt="Email"/>
+    <img src="./assets/mail.gif" width="52px" alt="Email"/>
   </a>
 </p>
 
