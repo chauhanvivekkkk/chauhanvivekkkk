@@ -36,7 +36,7 @@
 ## 🌐 SOCIALS
 <p align="left">
   <a href="https://instagram.com/_.vivekchauhan" target="_blank">
-    <img src="./assets/insta.gif" width="63px" alt="Instagram"/>
+    <img src="./assets/insta2.gif" width="63px" alt="Instagram"/>
   </a>
 
   <a href="https://www.linkedin.com/in/vivek-chauhan-8725b6240/" target="_blank">
