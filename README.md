@@ -44,7 +44,7 @@
   </a>
 
   <a href="mailto:chauhanvivek12203@gmail.com" target="_blank">
-    <img src="./assets/mail.gif" width="63px" alt="Email"/>
+    <img src="./assets/mail_.gif" width="63px" alt="Email" style="vertical-align: -6px;"/>
   </a>
 </p>
 
