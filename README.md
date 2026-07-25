@@ -62,12 +62,12 @@
 
 ----
 ## 📊 STATS
-<p align="center">
-  <img src="./github-metrics.svg" width="100%">
+<p align="left">
+  <img src="./github-metrics.svg" width="55%">
 </p>
 
-<p align="center">
-  <img src="./calender.svg" width="100%">
+<p align="left">
+  <img src="./calender.svg" width="55%">
 </p>
 <br/>
 <p align="left">
