@@ -34,6 +34,7 @@
 
 ----
 ## 🌐 SOCIALS
+<br/>
 <p align="left">
   <a href="https://instagram.com/_.vivekchauhan" target="_blank">
     <img src="./assets/insta2.gif" width="63px" alt="Instagram"/>
@@ -51,16 +52,20 @@
 ---
 ## 💻 TECH STACK 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
+
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="55" height="55"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="55" height="55"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="55" height="55"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="55" height="55"/> </a> </p> 
+
+
+
+
 
 ----
 ## 📊 STATS
-
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
 
 <div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chauhanvivekkkk&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4500&icon_color=ff6a00&text_color=ffffff" height="170"/> <img src="https://streak-stats.demolab.com?user=chauhanvivekkkk&theme=tokyonight&hide_border=true&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500" height="170"/>
 
