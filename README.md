@@ -63,12 +63,10 @@
 ----
 ## 📊 STATS
 <p align="left">
-  <img src="./github-metrics.svg" width="55%">
+  <img src="./github-metrics.svg" width="50.7%">
 </p>
 
-<p align="left">
-  <img src="./calender.svg" width="55%">
-</p>
+
 <br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
