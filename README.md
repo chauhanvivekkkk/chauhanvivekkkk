@@ -65,5 +65,9 @@
 <p align="left">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%">
 </p>
+<br/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 ---
 
