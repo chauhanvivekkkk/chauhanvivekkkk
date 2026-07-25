@@ -62,17 +62,8 @@
 
 ----
 ## 📊 STATS
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-
-<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chauhanvivekkkk&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4500&icon_color=ff6a00&text_color=ffffff" height="170"/> <img src="https://streak-stats.demolab.com?user=chauhanvivekkkk&theme=tokyonight&hide_border=true&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chauhanvivekkkk&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4500&text_color=ffffff"/> </div>
-  <img src="https://komarev.com/ghpvc/?username=chauhanvivekkkk&label=Profile%20Views&color=00f7ff&style=flat" />
+<p align="left">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%">
 </p>
 ---
 
