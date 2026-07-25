@@ -62,8 +62,12 @@
 
 ----
 ## 📊 STATS
-<p align="left">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%">
+<p align="center">
+  <img src="./github-metrics.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./calender.svg" width="100%">
 </p>
 <br/>
 <p align="left">
